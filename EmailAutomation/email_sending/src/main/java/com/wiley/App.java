@@ -67,7 +67,7 @@ public class App
     		
     		
     		//attach the file
-    		String path = "C:\\Users\\vanda\\Downloads\\docgen-master\\docgen-master\\src\\main\\resources\\templates\\template.docx";
+    		String path = "File path is to be given";
     		
     		MimeMultipart mimeMultipart = new MimeMultipart();
     		
